@@ -24,11 +24,3 @@ The objective of this project is to build a predictive model that can understand
 1.Python
 
 2.Jupyter Notebook
-
-3.NumPy
-
-4.Pandas
-
-5.Matplotlib
-
-6.Seaborn
